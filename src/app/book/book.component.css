@@ -1,0 +1,38 @@
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  html {
+    font-size: 14px;
+  }
+  @media (min-width: 768px) {
+    html {
+      font-size: 16px;
+    }
+  }
+  
+  .container {
+    max-width: 960px;
+  }
+
+  button{
+    margin-left: -200px;
+  }
+  
+  .pricing-header {
+    max-width: 700px;
+  }
+  
+  .card-deck .card {
+    min-width: 220px;
+  }
+  .btn-class{
+    min-width: 120px;
+    margin: 5px;
+    
+  }
+  h1{
+    margin-left: 350px;
+  }
